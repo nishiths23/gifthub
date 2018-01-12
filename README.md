@@ -39,7 +39,7 @@ In the command line, type 'npm install' to download node packages. Go to package
 ## Directory structure
 ```none
 .
-├── assets			 // client-side application
+├── assets			 // client-side
 │   ├── css
 │   ├── fonts	
 │   ├── images
